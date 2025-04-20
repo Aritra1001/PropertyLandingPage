@@ -297,3 +297,7 @@ footer {
 .success-card > img{
   width: 200px;
 }
+
+.success-card p{
+  margin-top: 5px;
+}
